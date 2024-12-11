@@ -1,1 +1,1 @@
-# MobileDevelopment_8semestr test
+# MobileDevelopment_8semestr
